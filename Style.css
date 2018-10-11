@@ -1,0 +1,267 @@
+/* =================================
+  BASE ELEMENT STYLES
+==================================== */
+@import url('https://fonts.googleapis.com/css?family=Muli:400,700|sans-serif');
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    font-family: 'Muli', sans-serif;
+    background: #FFF;
+    margin-bottom: 150px;
+    padding-bottom: 60px;
+}
+
+/* =================================
+  NAV
+==================================== */
+
+.navbar {
+    padding: 15px 10px;
+    border: none;
+    margin-bottom: 20px;
+}
+
+.nav-titles {
+     margin:  0;
+     position: relative;
+     top: 50px;
+     left: 100px;
+     font-size: 20px;
+     text-transform: uppercase;
+}
+
+.nav-item a {
+    white-space: nowrap;
+    border-top: none;
+}
+
+.nav-item a span {
+    color: #000;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 2;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+}
+
+.nav-item a span:hover {
+  color: #b6b6b6;
+  text-shadow: 0 0 15px #b6b6b6;
+  transition: all 0.5s ease;
+}
+
+.dropdown .dropdown-menu {
+background-color:rgba(255,255,255, 0.5);
+}
+
+/* =================================
+  COLOURS
+==================================== */
+
+.black-background {
+  background-color: #000;
+}
+
+.white-background {
+  background-color: #fff!important;
+}
+
+.gray-background {
+  background-color: #808080;
+}
+
+/* =================================
+  LOGO
+==================================== */
+
+.logo img {
+    position: relative;
+    border: none;
+    margin: 0 auto;
+    padding: 0;
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+/* =================================
+  CAROUSEL
+==================================== */
+
+ /* carousel fullscreen */
+.carousel-fullscreen .carousel-inner .carousel-item {
+    min-height: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* =================================
+  ABOUT US
+==================================== */
+.text-block {
+  padding: 10px 20px;
+}
+
+
+/* =================================
+  GRID
+==================================== */
+.grid {
+	position: relative;
+	margin: 0 auto;
+}
+
+img {
+	width: 100%;
+}
+
+.grid-item {
+	width: 270px;
+	padding: 5px;
+}
+
+.grid-item {
+    filter: grayscale(0%);
+    opacity: 1;
+    margin-top: -5px;
+    box-shadow: 0px 18px 22px -15px rgba(0,0,0,0.3);
+}
+.grid-item:hover {
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    opacity: .6;
+    -webkit-transition: .6s;
+    -moz-transition: .6s;
+    transition: .6s;
+}
+
+.img-wrap {
+	display: block;
+}
+
+.img-wrap img {
+	display: block;
+	max-width: 100%;
+}
+
+
+/* =================================
+  CONTACT
+==================================== */
+.contact-us {
+  letter-spacing: 2px;
+  }
+
+.map {
+  width: 300px;
+  padding: 50px 50px;
+  margin: 0 auto;
+}
+
+.address {
+  width: 300px;
+  padding-top: 150px;
+  margin: 0 auto;
+}
+
+.address a{
+  color: #808080;
+  text-decoration: none;
+}
+
+.address h5{
+  color: #000;
+  font-weight: bold;
+}
+
+/* =================================
+  FOOTER
+==================================== */
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 150px; /* Set the fixed height of the footer here */
+  line-height: 60px; /* Vertically center the text there */
+  text-align: center;
+}
+
+.arb-logo img {
+    position: relative;
+    border: none;
+    width: 120px;
+    margin: 0 auto;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.RIBA-logo img {
+    position: relative;
+    border: none;
+    width: 120px;
+    margin: 0 auto;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+/* =================================
+  SOCIAL LINKS
+==================================== */
+
+/* Styling the Un-ordered list by setting its list-style to none */
+.social-links ul {
+  list-style: none;
+}
+
+/* Styling the list items inside the UL list, by setting its width, height and line-height
+  and float them to left.
+ */
+.social-links ul li {
+  width: 75px;
+  height: 75px;
+  line-height: 75px;
+  margin: 5px 10px;
+  text-align: center;
+  cursor: pointer;
+  float: left;
+}
+
+/* Setting color and margin-top value
+to align icons properly */
+.social-links ul li .fab {
+  color: #000000;
+  margin-top: 5px;
+  transition: all 0.5s ease;
+}
+
+/* Targeting specific li classes for styling and using text-shadow effect
+  on icons for glowing effect and use transition property for smooth transition effect. */
+
+/*facebook*/
+.social-links ul li:hover .fa-facebook-f {
+  color: #3b5998;
+  text-shadow: 0 0 15px #3b5998;
+  transition: all 0.5s ease;
+}
+
+/*twitter*/
+.social-links ul li:hover .fa-twitter {
+  color: #00aced;
+  text-shadow: 0 0 15px #00aced;
+  transition: all 0.5s ease;
+}
+
+/* instagram */
+.social-links ul li:hover .fa-instagram {
+  color: #bc2a8d;
+  text-shadow: 0 0 15px #bc2a8d;
+  transition: all 0.5s ease;
+}
