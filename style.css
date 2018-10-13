@@ -110,6 +110,13 @@ and use transition property for smooth transition effect. */
   padding: 10px 20px;
 }
 
+.text-block {
+    filter: grayscale(0%);
+    opacity: 1;
+    margin-top: 20px;
+    box-shadow: 0px 18px 22px -15px rgba(0,0,0,0.9);
+}
+
 
 /* =================================
   GRID
