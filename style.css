@@ -3,10 +3,6 @@
 ==================================== */
 @import url('https://fonts.googleapis.com/css?family=Muli:400,700|sans-serif');
 
-* {
-  box-sizing: border-box;
-}
-
 html {
   position: relative;
   min-height: 100%;
@@ -19,10 +15,10 @@ body {
     padding-bottom: 60px;
 }
 
+
 /* =================================
   NAV
 ==================================== */
-
 .navbar {
     padding: 15px 10px;
     border: none;
@@ -51,6 +47,8 @@ body {
     text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
 }
 
+/* Styling nav-item by using text-shadow effect on icons for glowing effect 
+and use transition property for smooth transition effect. */
 .nav-item a span:hover {
   color: #b6b6b6;
   text-shadow: 0 0 15px #b6b6b6;
@@ -61,6 +59,7 @@ body {
   background-color: rgb(255, 255, 255); /* The fallback color in case opacity doesnt work */
   background-color:rgba(255,255,255, 0.5);
 }
+
 
 /* =================================
   COLOURS
@@ -78,6 +77,7 @@ body {
   background-color: #808080;
 }
 
+
 /* =================================
   LOGO
 ==================================== */
@@ -92,6 +92,7 @@ body {
     max-height: 100%;
 }
 
+
 /* =================================
   CAROUSEL
 ==================================== */
@@ -100,6 +101,7 @@ body {
 .carousel-inner .carousel-item {
     min-height: 100%;
 }
+
 
 /* =================================
   ABOUT US
@@ -130,15 +132,12 @@ img {
     filter: grayscale(0%);
     opacity: 1;
     margin-top: -5px;
-    box-shadow: 0px 18px 22px -15px rgba(0,0,0,0.3);
+    box-shadow: 0px 18px 22px -15px rgba(0,0,0,0.9);
 }
 .grid-item:hover {
     filter: grayscale(100%);
-    -webkit-filter: grayscale(100%);
-    opacity: .6;
-    -webkit-transition: .6s;
-    -moz-transition: .6s;
-    transition: .6s;
+    opacity: 0.6;
+    transition: 0.6;
 }
 
 .img-wrap {
@@ -180,6 +179,7 @@ img {
   font-weight: bold;
 }
 
+
 /* =================================
   FOOTER
 ==================================== */
@@ -187,8 +187,8 @@ footer {
   position: absolute;
   bottom: 0;
   width: 100%;
-  height: 150px; /* Set the fixed height of the footer here */
-  line-height: 60px; /* Vertically center the text there */
+  height: 150px; /* Fixed height of the footer */
+  line-height: 60px; /* Centering the text vertically */
   text-align: center;
 }
 
@@ -219,9 +219,7 @@ footer {
   list-style: none;
 }
 
-/* Styling the list items inside the UL list, by setting its width, height and line-height
-  and float them to left.
- */
+/* Styling the list items inside the UL list. */
 .social-links ul li {
   width: 75px;
   height: 75px;
@@ -241,7 +239,8 @@ to align icons properly */
 }
 
 /* Targeting specific li classes for styling and using text-shadow effect
-  on icons for glowing effect and use transition property for smooth transition effect. */
+on icons for glowing effect and use transition property for smooth transition effect. 
+Same styling as nav-item */
 
 /*facebook*/
 .social-links ul li:hover .fa-facebook-f {
