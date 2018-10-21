@@ -119,43 +119,22 @@ and use transition property for smooth transition effect. */
 
 
 /* =================================
-  GRID
+  MODAL
 ==================================== */
-.grid {
-	position: relative;
-	margin: 0 auto;
-}
 
-img {
-	width: 100%;
-}
-
-.grid-item {
-	width: 270px;
-	padding: 5px;
-}
-
-.grid-item {
+/* Box with drop shadow at the bottom */
+.thumbnail {
     filter: grayscale(0%);
     opacity: 1;
-    margin-top: -5px;
+    /* margin-top: -5px; */
     box-shadow: 0px 18px 22px -15px rgba(0,0,0,0.9);
+    cursor: pointer;
 }
-.grid-item:hover {
+.thumbnail:hover {
     filter: grayscale(100%);
     opacity: 0.6;
-    transition: 0.6;
+    transition: 0.6s;
 }
-
-.img-wrap {
-	display: block;
-}
-
-.img-wrap img {
-	display: block;
-	max-width: 100%;
-}
-
 
 /* =================================
   CONTACT

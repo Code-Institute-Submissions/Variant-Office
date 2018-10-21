@@ -5,8 +5,8 @@
      `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
     ----------------------------------------------------------------- 
 Variant Office
-This project is a website for an imerging architectural company called Variant Office. 
-Its a young company consisting of three technically skilled and dynamic architects. Their work is comprised of stripped down 
+This project is a website for an emerging architectural company called Variant Office. 
+It's a young company consisting of three technically skilled and dynamic architects. Their work is comprised of stripped down 
 and understated engineering. Approaching every project with a minimal outlook, their brand and so the website design style 
 has to mirror that approach.
 
@@ -14,8 +14,8 @@ has to mirror that approach.
 UX
 This project is for a group of architects that care about aesthetics and detail. Their main objective with the site is to 
 showcase the work they have done and the projects they are currently working on. Although they are young and the work they 
-conduct is usually contemporary, they are just as enthused by period work. In designing the website, I have incorporated a morden and 
-sleek look onto the style of the website. At the same time the site is still simple and familiar in the way its laid out. 
+conduct is usually contemporary, they are just as enthused by period work. In designing the website, I have incorporated a modern and 
+sleek look onto the style of the website. At the same time the site is still simple and familiar in the way it's laid out. 
 
 There is a traditional looking navigation which goes along the top of the site, with the company logo clearly visible for the user
 to see. The botton fo the site has an uncomplicated footer with links to the company's social media networks for interested users.
