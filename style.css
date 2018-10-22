@@ -122,7 +122,7 @@ and use transition property for smooth transition effect. */
   MODAL
 ==================================== */
 
-/* Box with drop shadow at the bottom */
+/* Box with box shadow at the bottom */
 .thumbnail {
     filter: grayscale(0%);
     opacity: 1;
