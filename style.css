@@ -74,7 +74,7 @@ and use transition property for smooth transition effect. */
 }
 
 .gray-background {
-  background-color: #808080;
+  background-color: #7b7d7d;
 }
 
 
@@ -117,6 +117,11 @@ and use transition property for smooth transition effect. */
     box-shadow: 0px 18px 22px -15px rgba(0,0,0,0.9);
 }
 
+.text-block p {
+    font-size: 15px;
+    color: #7b7d7d;
+}
+
 
 /* =================================
   MODAL
@@ -134,11 +139,6 @@ and use transition property for smooth transition effect. */
     filter: grayscale(100%);
     opacity: 0.6;
     transition: 0.6s;
-}
-
-.modal-content {
-     background: rgba(240, 248, 255, 0.10);
-     border: 0;
 }
 
 /* Styling the caption accompanying Modal image */
