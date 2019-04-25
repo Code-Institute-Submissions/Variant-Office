@@ -1,9 +1,3 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
 Variant Office
 This project is a website for an emerging architectural company called Variant Office. 
 It's a young company consisting of three technically skilled and dynamic architects. Their work is comprised of stripped down 
@@ -63,7 +57,9 @@ potential clients can engage with them.
 Mainly used Bootstrap 4 when creating the site. I have customized a lot of the Bootstrap code
 in order to make it work for this project. I have also employed a simple Java script code for the carousel.
 
-
+Inspiration:
+When creating the projects.html page, I used the base code from (https://mdbootstrap.com/javascript/bootstrap-gallery/#modals)
+but I modified and added my take to it.
 
 
 Social-Links & Nav-Titles:
@@ -72,10 +68,12 @@ Used the same CSS hover styling for both in order to have a recognisable theme.
 
 Credits
 Content
-The text for section Y was copied from the Wikipedia article Z
-Media
-The photos used in this site were obtained from ...
+The text for the about.html page was obtained from current Variant Office website.
+
+Media:
+All photos were obtained from www.unsplash.com
+
 Acknowledgements
-I received inspiration for this project from X
+I received inspiration and guidance for this project's style from Ashvin De Vos at Variant Office.
 
 
