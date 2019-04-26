@@ -154,7 +154,7 @@ body {
  transition: 0.6s;
 }
 
-/* Styling the caption accompanying Modal image */
+/* Styling for the caption accompanying Modal image */
 .caption{
  padding: 26px 30px;
  text-align: center;
@@ -247,7 +247,7 @@ footer {
 }
 
 /* Targeting specific li classes for styling and using text-shadow effect
-on icons for glowing effect and use transition property for smooth transition effect. 
+on icons for glowing effect and using transition property for smooth transition effect. 
 Same styling as nav-item */
 
 /*facebook*/
