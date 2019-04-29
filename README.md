@@ -1,32 +1,37 @@
-Variant Office
-This project is a website for an emerging architectural company called Variant Office. 
-It's a young company consisting of three technically skilled and dynamic architects. Their work is comprised of stripped down 
-and understated engineering. Approaching every project with a minimal outlook, their brand and so the website design style 
-has to mirror their approach.
+Variant Office Website
 
-The home page gives a clean and precise visual, the company logo on the top left clearly stands out so that visitors 
-to the site can immediately know where they are. The "About" menu item consist of a brief description
-of the company and the summerised profiles of the three compony directors. The "Projects" menu item has a
-detailed showcase of the work that the company does. Consisting of a grid with images and video content describing 
-past projects. This is the part of the website that users would visit the most as it has more infomartion, bot visually
-and in text. The "Categories" and "Research" menu items would consist of more detailed information on past, current 
-and future projects that Variant Office is involved in. Projects would be grouped according to their genre and 
+This project is a website for an emerging architectural company called Variant Office. It's a young company consisting 
+of three principle architects with technical and dynamic skillset. Employing a stripped down and understated engineering style, 
+their approach echos the minimal outcome of their projects, and so does the website design style.
+
+The website has a contemporary but simple and familiar layout. The home page gives a clean and precise visual, the company 
+logo on the top left clearly stands out so that visitors to the site can immediately know where they are. The "About" menu 
+item consist of a brief description of the company and the summerised profiles of the three compony directors. The "Projects" 
+menu item has a detailed showcase of the work that the company does. Consisting of a grid with images and video content 
+describing past projects. This is the part of the website that users would visit the most as it has more infomartion, 
+but visually and in text. The "Categories" and "Research" menu items would consist of more detailed information on past, 
+current and future projects that Variant Office is involved in. Projects would be grouped according to their genre and 
 specificity. The user will be able to see the beginning stages of a project, from the architects initial design sketches,
 research notes, to the final finished product. The last menu item allows for users to contact the the company by phone or
 email. Full address and a map is also available there, if anyone trying to find the location of the company office.
 All menu items have social media links and architectural accreditation for the company. 
 
-
 UX
-This project is for a group of architects that care about aesthetics and detail. Their main objective with the site is to 
-showcase the work they have done and the projects they are currently working on. Although they are young and the work they 
-conduct is usually contemporary, they are just as enthused by period work. In designing the website, I have incorporated a modern and 
-sleek look onto the style of the website. At the same time the site is still simple and familiar in the way it's laid out. 
+This website is for people who are looking to build a property from scratch or improve something already existing. 
+The individuals visiting this website would be looking for architecture with contemporary aesthetics, attention to detail 
+and inspired design. The website provides examples of the work that the company has undertaken, it also has vides of 
+clients speaking about the work the company has done. There is a contacts page for individuals who want to get in touch 
+directly with the architects. Each page has a link to the company's social media for people who prefer engaging with the 
+in that way.
 
-There is a traditional looking navigation which goes along the top of the site, with the company logo clearly visible for the user
-to see. The botton fo the site has an uncomplicated footer with links to the company's social media networks for interested users.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
+
+
+
+There is a traditional looking navigation which goes along the top of the site, with the company logo clearly visible for 
+the user to see. The botton fo the site has an uncomplicated footer with links to the company's social media networks for 
+interested users. In particular, as part of this section we recommend that you provide a list of User Stories, with the 
+following general structure:
 
 User: 1
 I have recently acquired a small sight in a built-up urban area. Looking for an architect who can build modest but modern and
