@@ -2,7 +2,19 @@ Variant Office
 This project is a website for an emerging architectural company called Variant Office. 
 It's a young company consisting of three technically skilled and dynamic architects. Their work is comprised of stripped down 
 and understated engineering. Approaching every project with a minimal outlook, their brand and so the website design style 
-has to mirror that approach.
+has to mirror their approach.
+
+The home page gives a clean and precise visual, the company logo on the top left clearly stands out so that visitors 
+to the site can immediately know where they are. The "About" menu item consist of a brief description
+of the company and the summerised profiles of the three compony directors. The "Projects" menu item has a
+detailed showcase of the work that the company does. Consisting of a grid with images and video content describing 
+past projects. This is the part of the website that users would visit the most as it has more infomartion, bot visually
+and in text. The "Categories" and "Research" menu items would consist of more detailed information on past, current 
+and future projects that Variant Office is involved in. Projects would be grouped according to their genre and 
+specificity. The user will be able to see the beginning stages of a project, from the architects initial design sketches,
+research notes, to the final finished product. The last menu item allows for users to contact the the company by phone or
+email. Full address and a map is also available there, if anyone trying to find the location of the company office.
+All menu items have social media links and architectural accreditation for the company. 
 
 
 UX
